@@ -1,5 +1,9 @@
 ### Hello, I'm Bruno Koster!
 ##
+Currently Studying Node and Docker 😁
+
+Seeking to become a full stack developer!
+
 <div style="display: inline-block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
