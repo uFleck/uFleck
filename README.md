@@ -1,7 +1,6 @@
 ### Hello, I'm Bruno Koster!
 ##
-Currently Studying Node and Docker 😁
-
+Currently Studying Node and Docker 😁<br>
 Seeking to become a full stack developer!
 
 <div style="display: inline-block">
