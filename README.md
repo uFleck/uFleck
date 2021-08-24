@@ -1,8 +1,12 @@
 ### Hello, I'm Bruno Koster!
-
+##
 <a href="https://www.linkedin.com/in/brunokoster/">
   <img align="left" alt="uFleck's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+##
+<div>
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
 <!--
 **uFleck/uFleck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
