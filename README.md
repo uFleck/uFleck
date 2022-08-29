@@ -1,6 +1,5 @@
 ### Hello, I'm Bruno Koster!
 ##
-Currently Studying Vue 😁<br>
 Seeking to become a full stack developer!
 
 <div style="display: inline-block">
